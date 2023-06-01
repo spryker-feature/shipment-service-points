@@ -1,0 +1,19 @@
+{
+    "name": "spryker-feature/shipment-service-points",
+    "description": "Shipment Service Points [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=8.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202212.x-dev"
+        }
+    },
+    "suggest": {
+        "spryker-feature/service-points": "Recommended feature dependency."
+    }
+}
