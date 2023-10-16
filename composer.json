@@ -6,11 +6,14 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=8.0"
+        "php": ">=8.0",
+        "spryker/shipment-type-service-point": "^0.4.0",
+        "spryker/shipment-type-service-point-data-import": "^0.4.0",
+        "spryker/shipment-type-service-point-storage": "^0.1.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202212.x-dev"
+            "dev-master": "202311.x-dev"
         }
     },
     "suggest": {
