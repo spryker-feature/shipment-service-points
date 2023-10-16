@@ -12,3 +12,6 @@ composer require spryker-feature/shipment-service-points
 - [spryker-feature/service-points](https://github.com/spryker-feature/service-points)
 
 If you don't include the feature dependencies, make sure you use the respective modules instead.
+
+## Optional modules
+- [ShipmentTypesServicePointsResourceRelationship ^0.3.0](https://github.com/spryker/shipment-types-service-points-resource-relationship) (Legacy Glue)
