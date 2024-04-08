@@ -6,7 +6,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=8.0",
+        "php": ">=8.1",
         "spryker/shipment-type-service-point": "^1.0.0",
         "spryker/shipment-type-service-point-data-import": "^0.6.0",
         "spryker/shipment-type-service-point-storage": "^1.0.0"
